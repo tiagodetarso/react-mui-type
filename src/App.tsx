@@ -4,11 +4,11 @@ import { AppThemeProvider } from './shared/context'
 import { AppRoutes } from './routes'
 
 export const App = () => {
-  return (
-    <AppThemeProvider>
-      <BrowserRouter>
-        <AppRoutes/>
-      </BrowserRouter>
-    </AppThemeProvider>
-);
+    return (
+        <AppThemeProvider>
+            <BrowserRouter>
+                <AppRoutes/>
+            </BrowserRouter>
+        </AppThemeProvider>
+    )
 }
