@@ -1,3 +1,4 @@
+
 import { Environment } from '../../../environment'
 import { Api } from '../axio-config'
 
@@ -26,11 +27,12 @@ const getAll = async (page=1, filter=''): Promise<TPessoasComTotalCount | Error>
         const urlRelativa = `/pessoas?_page=${page}&_limit=${Environment.LIMITE_DE_LINHAS}&nomeCompleto_like=${filter}`
         
         const { data, headers } = await Api.get(urlRelativa)
+        
 
         if (data) {
             return {
                 data,
-                totalCount: Number(headers['x-total-count'] || Environment.LIMITE_DE_LINHAS)
+                totalCount: Number(headers['x-total-count'] || Environment.LIMITE_DE_LINHAS),
             }
         }
 
