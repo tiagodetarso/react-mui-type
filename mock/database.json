@@ -5,6 +5,30 @@
             "nomeCompleto": "Juca Silva",
             "email": "juca.silva@gmail.com",
             "cidadeId":1
+        },
+        {
+            "id":2,
+            "nomeCompleto": "Paraná Silva",
+            "email": "pr.silva@gmail.com",
+            "cidadeId":1
+        },
+        {
+            "id":3,
+            "nomeCompleto": "Hermano Silva",
+            "email": "mano.silva@gmail.com",
+            "cidadeId":1
+        },
+        {
+            "id":4,
+            "nomeCompleto": "Carlitos Silva",
+            "email": "litos.silva@gmail.com",
+            "cidadeId":1
+        },
+        {
+            "id":5,
+            "nomeCompleto": "Riquelme Silva",
+            "email": "riq.silva@gmail.com",
+            "cidadeId":1
         }
     ]
 }
