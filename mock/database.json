@@ -1,94 +1,82 @@
 {
-    "pessoas": [
-        {
-            "id":1,
-            "nomeCompleto": "Juca Silva",
-            "email": "juca.silva@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":2,
-            "nomeCompleto": "Paraná Silva",
-            "email": "pr.silva@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":3,
-            "nomeCompleto": "Hermano Silva",
-            "email": "mano.silva@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":4,
-            "nomeCompleto": "Carlitos Silva",
-            "email": "litos.silva@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":5,
-            "nomeCompleto": "Riquelme Silva",
-            "email": "riq.silva@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":6,
-            "nomeCompleto": "Armando Bezerra",
-            "email": "armando.b@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":7,
-            "nomeCompleto": "Carla DiPietro",
-            "email": "c.dipietro@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":8,
-            "nomeCompleto": "Elisa Ferreira",
-            "email": "e.ferreira@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":9,
-            "nomeCompleto": "Gualberto Hierro",
-            "email": "g.hierro@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":10,
-            "nomeCompleto": "Ida Junqueira",
-            "email": "ida.j@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":11,
-            "nomeCompleto": "Keno Lopes",
-            "email": "keno.lopes@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":12,
-            "nomeCompleto": "Maria Nunes",
-            "email": "maria.numes@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":13,
-            "nomeCompleto": "Orlando Passos",
-            "email": "o.passos@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":14,
-            "nomeCompleto": "Queli Reis",
-            "email": "quelinguica@gmail.com",
-            "cidadeId":1
-        },
-        {
-            "id":15,
-            "nomeCompleto": "Suely Tenório",
-            "email": "suely.t@gmail.com",
-            "cidadeId":1
-        }
-    ]
+  "pessoas": [
+    {
+      "id": 1,
+      "nomeCompleto": "Juca Silva",
+      "email": "juca.silva@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 3,
+      "nomeCompleto": "Hermano Silva",
+      "email": "mano.silva@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 5,
+      "nomeCompleto": "Riquelme Silva",
+      "email": "riq.silva@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 6,
+      "nomeCompleto": "Armando Bezerra",
+      "email": "armando.b@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 7,
+      "nomeCompleto": "Carla DiPietro",
+      "email": "c.dipietro@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 8,
+      "nomeCompleto": "Elisa Ferreira",
+      "email": "e.ferreira@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 9,
+      "nomeCompleto": "Gualberto Hierro",
+      "email": "g.hierro@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 10,
+      "nomeCompleto": "Ida Junqueira",
+      "email": "ida.j@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 11,
+      "nomeCompleto": "Keno Lopes",
+      "email": "keno.lopes@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 12,
+      "nomeCompleto": "Maria Nunes",
+      "email": "maria.numes@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 13,
+      "nomeCompleto": "Orlando Passos",
+      "email": "o.passos@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 14,
+      "nomeCompleto": "Queli Reis",
+      "email": "quelinguica@gmail.com",
+      "cidadeId": 1
+    },
+    {
+      "id": 15,
+      "nomeCompleto": "Suely Tenório",
+      "email": "suely.t@gmail.com",
+      "cidadeId": 1
+    }
+  ]
 }
